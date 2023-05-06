@@ -2,7 +2,7 @@
 1. binaray tree traversals
 2. count of leaf
 3. Height of Tree
-4. Diameter of Tree (The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two end nodes. )
+4. Diameter of Tree (The diameter of a tree (sometimes called the width) is the number of nodes on the longest path between two end nodes.)
 5. Balanced Tree or Not
 6. Tree Identical or Not
 7. Sum Tree or Not (Given a Binary Tree. Return true if, for every node X in the tree other than the leaves, its value is equal to the sum of its left subtree's value    and its right subtree's value. Else return false.)
