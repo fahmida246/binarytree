@@ -14,7 +14,7 @@
 13. Right View
 14. Left View
 15. Sum of nodes on the longest path from root to leaf node 
-16. Longest common ancestor of Binary Tree
+16. Lowest common ancestor of Binary Tree
 17. K Sum paths(Find the number of paths in the tree which have their sum equal to K.)
 18. Kth Ancestor
 
